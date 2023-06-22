@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: react-app
-        image: lazypuzzle/reactapp-ci:latest
+        image: lazypuzzle/reactapp-ci
         resources:
           requests:
             memory: "100Mi"
